@@ -1,0 +1,2 @@
+ID: 45115, Nombre: Pera, Peso: 12.5 kg, Precio: $6.5
+ID: 12, Nombre: Pepino, Peso: 12.2 kg, Precio: $30.0
